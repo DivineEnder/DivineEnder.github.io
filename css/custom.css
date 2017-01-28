@@ -1,4 +1,10 @@
 /* your styles go here */
 .text-yellow {
-  color: #DDB514;
+	color: #DDB514;
+}
+.text-blue {
+	color: #1D64B3
+}
+.text-black {
+	color: #000000;
 }
